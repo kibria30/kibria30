@@ -25,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kibria30&show_icons=true&locale=en&layout=compact" alt="kibria30" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kibria30&show_icons=true&locale=en" alt="kibria30" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kibria30&" alt="kibria30" /></p>
