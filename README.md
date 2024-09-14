@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kibria</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A backend developer and AI/deep learning enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kibria30&label=Profile%20views&color=0e75b6&style=flat" alt="kibria30" /> </p>
 
-- 🔭 I’m currently working on **Deep Learning Model and Django Backend**
+- 🔭 I’m currently working on **Deep Learning models** and **Django backend systems**.
 
-- 🌱 I’m currently learning **Django for backend, Pytorch for deeplearning, Transformer and Hugging Face model for NLP**
+- 🌱 I’m expanding my expertise in **Django for backend development**, mastering **PyTorch** for deep learning, and delving into **Transformers** and **Hugging Face models** for NLP applications.
 
 - 📫 How to reach me **kibria8007@gmail.com**
 
