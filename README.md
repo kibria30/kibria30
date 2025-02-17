@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kibria30&label=Profile%20views&color=0e75b6&style=flat" alt="kibria30" /> </p>
 
-- 🔭 I’m currently working on **Deep Learning models** and **Fastapi and Django backend systems**.
+- 🔭 I’m currently working on **Deep Learning models** as well as **Fastapi and Django backend systems**.
 
 - 🌱 I’m expanding my expertise in **Fastapi and Django for backend development**, mastering **PyTorch** for deep learning, and delving into **Transformers** and **Hugging Face models** for NLP applications.
 
