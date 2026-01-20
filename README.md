@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 - 🔭 Working on **Deep Learning models** and **AI-driven solutions**.
 - 💡 Focus: ML, DL, NLP & Generative AI (Transformers, Hugging Face, PyTorch).
-- ⚡ Backend: **FastAPI** (proficient) | **Django** (used, but less focus).
+- ⚡ Backend: **FastAPI** (proficient).
 - 🌱 Exploring new tools in AI/ML, MLOps, and scalable backend architectures.
 
 ---
