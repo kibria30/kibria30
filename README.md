@@ -22,7 +22,6 @@
 - [Twitter/X](https://x.com/kibria30)
 - [LinkedIn](https://www.linkedin.com/in/md-kibria-hossen-roni-428112294/)
 - [Kaggle](https://www.kaggle.com/kibriahossen)
-- [Facebook](https://www.facebook.com/md.kibria.hossen.96/)
 
 ---
 
